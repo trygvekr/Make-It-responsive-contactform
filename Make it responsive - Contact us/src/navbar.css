@@ -1,0 +1,45 @@
+.logo
+{
+    display: inline-block;
+    color: rgb(225,229,242);
+    letter-spacing: 3px;
+    font-size: 30px;
+    margin-left: 20%;
+    margin-top: 30px;
+}
+
+.navbar{
+
+    color: rgb(225,229,242);
+    display: inline-block;
+    background-color: rgb(2,43,58);
+    width: 100%;
+}
+
+.navItem
+{
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    font-size: 100px;
+    padding: 20px;
+    margin-top: 10%;
+}
+
+.navSector
+{
+    float: right;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10%;
+
+}
+.logoSector h1{
+    font-size: 1.5vw;
+    padding: 1%;
+}
+.logoSector h2{
+    font-size: 1vw;
+    padding-left: 6vw;
+}
